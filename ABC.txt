@@ -1,6 +1,6 @@
 <script>
-alert("Hello, World!!!");
-alert("Hello");
-alert("Hello my dear friend");
-alert("I can speak English very well");
+alert("Hello, World!!!;");
+alert("Hello;");
+alert("Hello my dear friend;");
+alert("I can speak English very well;");
 </script>
